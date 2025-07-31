@@ -41,10 +41,10 @@ background-color: white;
 
 @keyframes circlee {
 0%{
-transform: translateX(-30vh);
+transform: translateX(-10px);
 }
 100%{
-    transform: translateX(90vh);
+    transform: translateX(550px);
 }
 
 }
